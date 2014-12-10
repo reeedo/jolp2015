@@ -1,0 +1,3 @@
+'''
+contains view modules
+'''
